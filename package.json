@@ -1,0 +1,13 @@
+{
+  "name": "mongo-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lopes-joe/mongo-rest-api.git",
+  "author": "lopes-joe <slopes.joe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.12"
+  }
+}
