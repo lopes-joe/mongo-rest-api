@@ -21,7 +21,7 @@ const Schema = mongoose.Schema
  */
 
 const productSchema = new Schema({
-    nome: String,
+    name: String,
     price: Number,
     description: String
 })
